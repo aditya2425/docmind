@@ -1,9 +1,0 @@
-.venv/
-venv/
-__pycache__/
-*.pyc
-.env
-data/chroma/
-.ipynb_checkpoints/
-.DS_Store
-data/raw/
